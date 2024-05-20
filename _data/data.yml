@@ -27,13 +27,13 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: B1 Intermediate # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: Spanish
-      level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: B2 competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: German
       level: A2
+
+    - idiom: Spanish
+      level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -51,9 +51,7 @@ career-profile:
   title: About Me # NO MODIFICAR
   summary: |
 
-    Im a Software Engineering student 
-
-    As a Computer Systems Engineering student with a deep passion for technology and programming, I have a keen interest in web, backend and frontend programming. As an autodidact programmer, I have a love for learning and consistently seek to improve my skills by staying up to date with industry best practices and logical thinking. I am proactive, diligent, and thrive in collaborative environments, where I can share my knowledge and learn from others. My passion for technology stems from my belief that it has the potential to make us better individuals, coworkers, and productive members of society. As a future Senior Developer, I am looking for an innovative company here in Mexico, where I can leverage my creativity and problem-solving skills to make an impact in people's lives.
+    Im a Software Engineering student with special interest in problem solving  through logical thinking and by applying my knowledge in  Linux systems, backend and frontend development. Im looking for a company where I can develop my skills, im open to work in a collaborative and international enviroment where i can learn new things both technical and cultural
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -89,7 +87,12 @@ skills:
     - name: Git
       level: 60%
       level-name: Competent
-      time: 1 year
+      time: 2 year
+
+    - name: Python
+      level: 60%
+      level-name: Competent
+      time: 2 years
 
     - name: HTML
       level: 60%
@@ -106,11 +109,6 @@ skills:
       level-name: Competent
       time: 1 year
 
-    - name: Python
-      level: 60%
-      level-name: Competent
-      time: 2 years
-
     - name: Ruby
       level: 40%
       level-name: Advanced beginner
@@ -124,21 +122,16 @@ skills:
     - name: SQL
       level: 40%
       level-name: Advanced beginner
-      time: 1 year
+      time: 6 months
 
     - name: MySQL
       level: 40%
       level-name: Advanced beginner
-      time: 1 year
+      time: 6 months
 
     - name: Postgres
       level: 40%
       level-name: Advanced beginner
-      time: 6 months
-
-    - name: React
-      level: 20%
-      level-name: Novice
       time: 6 months
 
 # NO MODIFICAR
